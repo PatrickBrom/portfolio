@@ -4,7 +4,10 @@
 
 Ik heb een aantal Power BI rapporten bijgevoegd, die gedwonload en bekeken kunnen worden, en eventueel gebruikt kunnen worden naar eigen inzicht.
 De data gebruikt in de dashboards komen vanuit Data Challenges. Deze worden door verschillende partijen uitgeschreven, en deze data kun je naar believen gebruiken.
-    
+De onderstaande rapporten zijn niet geheel gelijk. Dit omdat ik ook direct test hoe de format met meest duidelijk is. Ik heb een voorkeur voor donkere dashboards, omdat deze naar mijn mening rustiger 
+voor de ogen zijn.
+
+Tevens zijn er verschillende truken toegepast, zoals dynamische headers, wat meer geavanceerde DAX berekeningen en een aantal zaken in SQL die de brondata verrijken.
 
 
     - CSR Churning SQL
