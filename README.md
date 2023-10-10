@@ -1,4 +1,23 @@
 <h1>Hallo, Ik ben Patrick Brom! <br/><a href="https://github.com/PatrickBrom/portfolio"></a> <a href="https://www.linkedin.com/in/patrick-brom-282287a/"></a>
+  
+<h2>📺 Vaardigheden</h2>
+
+Hieronder beschrijf ik een aantal Power BI dashboards
+
+
+
+
+
+
+- Power BI
+  - Ik heb een aantal Power BI rapporten bijgevoegd, waarbij ik u een indruk van mijn vaardigheden probeer te geven.)
+    - Churning report - SQL
+      - Gebasseerd op een dataset gedeeld door Maven Analytics
+      - Dit rapport heb ik verschillende keren opgebouwd. 
+    - Churning report - DAX
+      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd met DAX statements
+    - Churning report - Excel
+      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd in Excel, met bijbehorende formules, draaitabellen en waar nodig VBA.
 
 <h2>Certificates</h2>
 
@@ -39,17 +58,7 @@
   -	T-Bin Call Center: Certificate 1999
 
     - ---------------------
-<h2>📺 Vaardigheden</h2>
 
-- Power BI
-  - Ik heb een aantal Power BI rapporten bijgevoegd, waarbij ik u een indruk van mijn vaardigheden probeer te geven.)
-    - Churning report - SQL
-      - Gebasseerd op een dataset gedeeld door Maven Analytics
-      - Dit rapport heb ik verschillende keren opgebouwd. 
-    - Churning report - DAX
-      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd met DAX statements
-    - Churning report - Excel
-      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd in Excel, met bijbehorende formules, draaitabellen en waar nodig VBA.
   
 
 <h2> 🤳 Contact mij:</h2>
