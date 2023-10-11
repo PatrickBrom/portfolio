@@ -34,43 +34,6 @@ Tevens zijn er verschillende truken toegepast, zoals dynamische headers, wat mee
 
       
 
-<h2>Certificates</h2>
-
-  - Master SQL Development Learning Path                                                                                      
-  - SQL Essential Training
-  -	Regression Analysis Fundamentals
-  - Data Visualisation Storytelling
-  -	Certificate Create Professional powerpoint Presentations
-  -	R for Excel
-  -	Artificial Intelligence Foundations, Machine learning
-  -	Microsoft power Automate Advanced Business Automation
-  -	Power Automate Essential training
-  -	Mastering Tabular Editor in Power BI
-  -	Career Essentials in Data Analysis by Microsoft
-  -	Career Essentials in Business Analysis by Microsoft
-  -	Excel Supply Chain Analysis Solving Inventory problems
-  -	Excel Supply Chain Analysis Transportation Inventory problems
-  -	SQL Essential training
-  -	Financial Forecasting with Analytics Essential training
-  -	Predictive Analytics with Analytics Essential training
-  -	Advance Sales Analytics for Decision Making with Power BI 
-  -	Advanced DAX for Microsoft Power BI Desktop		Inventory Management Foundations Nasba
-  -	Inventory Management Foundations (4 Parts)
-  -	Financial Reporting - Power BI
-  -	Mastering DAX Calculations in Power BI
-  -	Microsoft Excel Business Intelligence w Power Query & DAX
-  -	Microsoft Power BI - Up & Running With Power BI Service 2021
-  -	Microsoft Power BI Desktop for Business Intelligence
-  -	Power BI Advanced Data Transformations and Modeling
-  -	Warehouse Management Fundamentals
-  -	Every Angle: Reporting & Super user training
-  -	Qlikview: Designer & Developer
-  -	Google: Mobile App, Education Basics and Online Basics certificates
-  -	BHV: EHBO en Brand-Technisch 2014
-  -	VBA: Certificate 2009
-  -	Graydon communicatietraining: Certificate 2002
-  -	Microsoft Access: Certificate 2000
-  -	T-Bin Call Center: Certificate 1999
 
     - ---------------------
 
