@@ -25,15 +25,14 @@ Tevens zijn er verschillende toepassingen getest, zoals dynamische headers, wat 
       - Zeer groot nadeel is validatie, De meeste gebruikers hebben niet de toegang, of de kennis om de data goed te kunnen valideren op compleetheid, correcte calculaties uit te voeren en deze te 
         valideren. En DAX is geen gemakkelijke taal om te leren.
         
-    - Churn - Excel (Onder constructie)
-      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd in Excel, met bijbehorende formules, draaitabellen en waar nodig VBA.
-
     - Adventure_Works
       - Gebaseerd op een Microsft dataset
       - SQL statements zijn gebruikt om de data binnen te halen.
       - Meerdere DAX calculaties gebruikt voort berekeningen en verrijking van de data.
       - Zeer basic gehouden, valt nog veel meer uit te halen.
 
+    - Churn - Excel (Onder constructie)
+      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd in Excel, met bijbehorende formules, draaitabellen en waar nodig VBA.
 
       Alle bovenstaande rapporten zullen in de (nabije) toekomst verder aangevuld worden met nieuwe kennis en inzichten.
 
