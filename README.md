@@ -31,10 +31,11 @@ Tevens zijn er verschillende toepassingen getest, zoals dynamische headers, wat 
       - Meerdere DAX calculaties gebruikt voort berekeningen en verrijking van de data.
       - Zeer basic gehouden, valt nog veel meer uit te halen.
 
-    - Churn - Excel (Onder constructie)
-      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd in Excel, met bijbehorende formules, draaitabellen en waar nodig VBA.
+    - Churn - Excel
+      - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd in Excel, met bijbehorende formules, draaitabellen.
+      - De data is in het achterliggende Data Model geplaatst, en daar zijn ook de draaitabellen aan gekoppeld. In dit Data Model zijn ook een aantal basis calculaties toegevoegd als If statements en sommaties .
 
-      Alle bovenstaande rapporten zullen in de (nabije) toekomst verder aangevuld worden met nieuwe kennis en inzichten.
+      Alle bovenstaande rapporten zullen in de (nabije) toekomst verder aangevuld worden met nieuwe kennis, feiten en inzichten.
 
       
 
