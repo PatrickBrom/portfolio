@@ -1,4 +1,4 @@
-<h1>Hallo, Ik ben Patrick Brom! <br/><a href="https://github.com/PatrickBrom/portfolio"></a> <a href="https://www.linkedin.com/in/patrick-brom-282287a/"></a>
+<h1>Rapporten<br/><a href="https://github.com/PatrickBrom/portfolio"></a> <a href="https://www.linkedin.com/in/patrick-brom-282287a/"></a>
   
 <h2>📺 Vaardigheden</h2>
 
